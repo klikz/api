@@ -1,0 +1,747 @@
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:09:45+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:11:19+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:45:27+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:45:47+05:00"}
+{"level":"error","msg":"Create: Try wrong password: ","time":"2024-02-06T16:46:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:46:46+05:00"}
+{"level":"error","msg":"Create: Error in create user: pq: relation \"users.users\" does not exist","time":"2024-02-06T16:46:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:50:00+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T16:50:55+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to login: musayevsd error: sql: no rows in result set","time":"2024-02-06T16:51:14+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:52:23+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to login: musayevsd error: sql: no rows in result set","time":"2024-02-06T16:52:27+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:53:05+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to login: musayevsd error: sql: no rows in result set","time":"2024-02-06T16:53:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:53:33+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to login: musayevsd error: sql: no rows in result set","time":"2024-02-06T16:53:35+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to login: musayevsd error: sql: no rows in result set","time":"2024-02-06T16:57:46+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to password: musayevsd","time":"2024-02-06T16:58:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T16:58:52+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-06T16:59:19+05:00"}
+{"level":"error","msg":"UpdatePassword: Try wrong password: musayevsd","time":"2024-02-06T17:00:31+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T17:00:51+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T17:00:54+05:00"}
+{"level":"error","msg":"CheckRole: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE0NDQ0Nzg0MDAsInVzZXJuYW1lIjoibXVzYXlldnNkIn0.ODQwAetN_I9BSSJtWWhoD8rrPAPtEj0wgT3drtucaf4 error: pq: column r./api/user/update does not exist","time":"2024-02-06T17:01:18+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to password: musayevsd","time":"2024-02-06T17:01:57+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-06T17:02:03+05:00"}
+{"level":"error","msg":"Login: Try incorrect email to password: musayevsd","time":"2024-02-06T17:02:22+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-06T17:02:30+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T19:54:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:09:42+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-06T20:10:13+05:00"}
+{"level":"error","msg":"Login: FindByUserName:  error: sql: no rows in result set","time":"2024-02-06T20:11:48+05:00"}
+{"level":"error","msg":"Login: FindByUserName:  error: sql: no rows in result set","time":"2024-02-06T20:11:58+05:00"}
+{"level":"error","msg":"Login: FindByUserName:  error: sql: no rows in result set","time":"2024-02-06T20:12:13+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-06T20:12:42+05:00"}
+{"level":"error","msg":"Login: FindByUserName:  error: sql: no rows in result set","time":"2024-02-06T20:12:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:13:33+05:00"}
+{"level":"error","msg":"Login: FindByUserName:  error: sql: no rows in result set","time":"2024-02-06T20:13:33+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: 192.168.0.104 remote ip: 192.168.0.104","time":"2024-02-06T20:13:53+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: 192.168.0.104 remote ip: 192.168.0.104","time":"2024-02-06T20:14:11+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:16:10+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: 192.168.0.104 remote ip: 192.168.0.104","time":"2024-02-06T20:16:12+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:16:42+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: 192.168.0.104 remote ip: 192.168.0.104","time":"2024-02-06T20:16:43+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: 192.168.0.104 remote ip: 192.168.0.104","time":"2024-02-06T20:22:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:37:02+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:40:46+05:00"}
+{"level":"error","msg":"CheckRole: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE0NDQ0Nzg0MDAsInVzZXJuYW1lIjoibXVzYXlldnNkIn0.ODQwAetN_I9BSSJtWWhoD8rrPAPtEj0wgT3drtucaf4 error: pq: column r./api/category/getall does not exist","time":"2024-02-06T20:41:16+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:42:04+05:00"}
+{"level":"error","msg":"CheckRole: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE0NDQ0Nzg0MDAsInVzZXJuYW1lIjoibXVzYXlldnNkIn0.ODQwAetN_I9BSSJtWWhoD8rrPAPtEj0wgT3drtucaf4 error: pq: column r./api/category/getall does not exist","time":"2024-02-06T20:42:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:42:31+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/category/getall does not exist","time":"2024-02-06T20:42:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T20:50:38+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T20:58:05+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T20:59:19+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T20:59:26+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T20:59:33+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T20:59:51+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:00:00+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:00:11+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:00:32+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:00:43+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:01:05+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:02:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:03:38+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-06T21:03:39+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/category/add does not exist","time":"2024-02-06T21:04:03+05:00"}
+{"level":"error","msg":"CategoriesAdd: pq: duplicate key value violates unique constraint \"categories_un\"","time":"2024-02-06T21:05:14+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:06:01+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:26:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:26:37+05:00"}
+{"level":"error","msg":"CategoryGetAll: pq: relation \"model_info.category\" does not exist","time":"2024-02-06T21:26:44+05:00"}
+{"level":"error","msg":"CategoryGetAll: pq: relation \"model_info.category\" does not exist","time":"2024-02-06T21:26:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:27:49+05:00"}
+{"level":"error","msg":"CategoryGetAll: pq: relation \"model_info.category\" does not exist","time":"2024-02-06T21:27:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:30:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:32:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:32:52+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/category/delete does not exist","time":"2024-02-06T21:33:00+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:36:08+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/category/delete does not exist","time":"2024-02-06T21:36:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:37:48+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/category/delete does not exist","time":"2024-02-06T21:37:57+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:39:21+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: syntax error at or near \"/\"","time":"2024-02-06T21:39:23+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:39:50+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: schema \"public\" does not exist","time":"2024-02-06T21:39:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:41:05+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-06T21:41:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:42:57+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:43:42+05:00"}
+{"level":"error","msg":"CategoryAdd: pq: relation \"model_info.category\" does not exist","time":"2024-02-06T21:43:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-06T21:44:18+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T09:00:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T09:11:37+05:00"}
+{"level":"error","msg":"CategoryDelete: pq: syntax error at or near \"u_time\"","time":"2024-02-07T09:12:32+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T09:12:56+05:00"}
+{"level":"error","msg":"CategoryDelete: pq: syntax error at or near \"u_time\"","time":"2024-02-07T09:12:59+05:00"}
+{"level":"error","msg":"CategoryDelete: pq: syntax error at or near \"u_time\"","time":"2024-02-07T09:14:31+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T09:14:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:13:12+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-07T14:13:43+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-07T14:14:08+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-07T14:14:33+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-07T14:14:34+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-07T14:14:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:28:23+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:31:16+05:00"}
+{"level":"error","msg":"CategoryAdd: pq: duplicate key value violates unique constraint \"categories_un\"","time":"2024-02-07T14:31:55+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/models/add does not exist","time":"2024-02-07T14:32:24+05:00"}
+{"level":"error","msg":"ModelsAdd: pq: insert or update on table \"models\" violates foreign key constraint \"models_fk_2\"","time":"2024-02-07T14:33:03+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:34:03+05:00"}
+{"level":"error","msg":"ModelsAdd: pq: insert or update on table \"models\" violates foreign key constraint \"models_fk_2\"","time":"2024-02-07T14:34:04+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/models/getall does not exist","time":"2024-02-07T14:37:26+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:41:17+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/models/delete does not exist","time":"2024-02-07T14:41:53+05:00"}
+{"level":"error","msg":"CategoryDelete: pq: column \"u_time\" of relation \"models\" does not exist","time":"2024-02-07T14:42:06+05:00"}
+{"level":"error","msg":"ModelsAdd: pq: duplicate key value violates unique constraint \"models_un\"","time":"2024-02-07T14:45:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:48:27+05:00"}
+{"level":"error","msg":"ModelsGetAll: sql: Scan error on column index 0, name \"name\": converting driver.Value type string (\"43PRM700\") to a int: invalid syntax","time":"2024-02-07T14:48:30+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:49:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T14:55:05+05:00"}
+{"level":"error","msg":"ModelsGetAll: pq: there is no parameter $1","time":"2024-02-07T15:02:02+05:00"}
+{"level":"error","msg":"ModelsGetAll: pq: there is no parameter $1","time":"2024-02-07T15:04:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T15:05:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:03:20+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/gscode/file does not exist","time":"2024-02-07T16:03:57+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:04:29+05:00"}
+{"level":"info","msg":"added keys: 27 model: 4","time":"2024-02-07T16:04:29+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:07:54+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:07:54+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:09:24+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:09:24+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:10:50+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:10:50+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:11:32+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:11:32+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:15:28+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:15:28+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:18:26+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:18:31+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:18:31+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 0","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 1","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 2","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 3","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 4","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 5","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 6","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 7","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 8","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 9","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 10","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 11","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 12","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 13","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 14","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 15","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 16","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 17","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 18","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 19","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 20","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 21","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 22","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 23","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 24","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 25","time":"2024-02-07T16:18:48+05:00"}
+{"level":"error","msg":"error key: 26","time":"2024-02-07T16:18:48+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:24:22+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:24:29+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:25:00+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:26:48+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:26:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:27:23+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:27:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:28:51+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:29:06+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:29:57+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:30:13+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:31:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:32:04+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T16:32:10+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:48:09+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/gscode/getlist does not exist","time":"2024-02-07T16:49:47+05:00"}
+{"level":"error","msg":"GsCodeGetList: pq: relation \"gs\" does not exist","time":"2024-02-07T16:50:05+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T16:59:12+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T17:05:27+05:00"}
+{"level":"info","msg":"string array len: 27","time":"2024-02-07T17:06:00+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:14:15+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:16:55+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/load/file does not exist","time":"2024-02-07T17:17:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:19:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:26:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:28:42+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:28:56+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:29:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:30:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T17:31:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:41:56+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:43:34+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:44:26+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:46:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:47:40+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:49:47+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:52:19+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:55:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:57:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T19:59:20+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:00:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:01:42+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:04:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:05:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:06:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:07:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:08:01+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:09:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:09:48+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:10:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:11:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:15:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:18:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:19:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:19:41+05:00"}
+{"level":"error","msg":"Error Pasing body in CheckRole(): json: cannot unmarshal number into Go struct field Request.model_id of type string","time":"2024-02-07T20:22:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:23:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:25:27+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:28:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:29:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:32:34+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:33:19+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:34:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:41:40+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:42:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T20:42:51+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:09:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:11:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:16:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:16:48+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:23:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:23:37+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:23:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:25:24+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:25:29+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:28:12+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:28:16+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:29:30+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:29:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:30:26+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:30:34+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:33:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:33:41+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:33:42+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:35:06+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:35:15+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:37:34+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:37:37+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-07T21:38:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-07T21:49:55+05:00"}
+{"level":"error","msg":"GsCodeFile, InsertGsCode: code repeated","time":"2024-02-07T21:50:27+05:00"}
+{"level":"error","msg":"GsCodeFile, InsertGsCode: code repeated","time":"2024-02-07T21:50:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T09:00:03+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T09:04:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T09:13:45+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/getlist does not exist","time":"2024-02-08T09:17:18+05:00"}
+{"level":"error","msg":"ProductStatusList: sql: Scan error on column index 2, name \"status\": converting driver.Value type string (\"sklad\") to a int: invalid syntax","time":"2024-02-08T09:17:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T09:17:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T09:19:49+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:09:43+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-08T10:10:18+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T10:12:28+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:19:44+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T10:31:00+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T10:31:21+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/status/outcome does not exist","time":"2024-02-08T10:31:40+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:33:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:43:27+05:00"}
+{"level":"error","msg":"ProductStatusOutcome, ProductGetID: pq: there is no parameter $1","time":"2024-02-08T10:43:29+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:43:47+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T10:47:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T11:00:18+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductUpdateStatusToOutcome: seriya nomerda muammo","time":"2024-02-08T11:00:48+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductUpdateStatusToOutcome: seriya nomerda muammo","time":"2024-02-08T11:01:34+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductUpdateStatusToOutcome: seriya nomerda muammo","time":"2024-02-08T11:02:05+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T11:06:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T11:18:17+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/getlist/outcome does not exist","time":"2024-02-08T11:20:10+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/getlist/income does not exist","time":"2024-02-08T11:25:17+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/status/income does not exist","time":"2024-02-08T11:26:21+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T11:27:34+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T11:31:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:21:31+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/report/models does not exist","time":"2024-02-08T12:22:00+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-08T12:22:33+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-08T12:22:49+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-08T12:23:01+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:25:06+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:25:48+05:00"}
+{"level":"error","msg":"ReportGetByModels: sql: Scan error on column index 1, name \"model\": converting driver.Value type string (\"43PRM700\") to a int: invalid syntax","time":"2024-02-08T12:25:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:26:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:29:52+05:00"}
+{"level":"error","msg":"ReportGetByModelsU: pq: missing FROM-clause entry for table \"u\"","time":"2024-02-08T12:29:58+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:30:48+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:37:04+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/report/serials does not exist","time":"2024-02-08T12:37:57+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:44:29+05:00"}
+{"level":"error","msg":"GsCodeFile, InsertGsCode: code repeated","time":"2024-02-08T12:46:46+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:47:12+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:47:25+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:47:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:48:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:49:32+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:49:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:50:18+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:50:27+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T12:51:41+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:51:50+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:53:09+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:53:39+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:54:58+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T12:55:08+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-08T12:56:14+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-08T13:14:05+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-08T13:16:27+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-08T13:17:31+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T13:35:55+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T13:37:30+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T13:37:54+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T14:31:03+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T14:31:14+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:28:00+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/status/getall does not exist","time":"2024-02-08T15:29:32+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:36:11+05:00"}
+{"level":"error","msg":"Error Pasing body in CheckRole(): json: cannot unmarshal number into Go struct field Request.status_id of type bool","time":"2024-02-08T15:36:12+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:36:31+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:42:46+05:00"}
+{"level":"error","msg":"ReportGetByModels, ReportGetByModelsC: pq: invalid input syntax for type integer: \"a1\"","time":"2024-02-08T15:44:07+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:45:40+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:52:33+05:00"}
+{"level":"error","msg":"ReportGetBySerials, ReportGetBySerialsC: sql: expected 6 destination arguments in Scan, not 5","time":"2024-02-08T15:52:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-08T15:54:18+05:00"}
+{"level":"error","msg":"GsCodeFile, InsertGsCode: code repeated","time":"2024-02-08T16:00:27+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: gscode yetarli emas , faylgadi seriya soni:  2","time":"2024-02-08T16:01:11+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-08T16:01:33+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T09:26:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-09T09:45:48+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-09T09:45:57+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T09:51:14+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T09:54:36+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/serial/info does not exist","time":"2024-02-09T09:59:25+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-09T10:00:10+05:00"}
+{"level":"error","msg":"ProductSerialInfo: pq: unterminated quoted identifier at or near \"\"\"","time":"2024-02-09T10:00:32+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:02:22+05:00"}
+{"level":"error","msg":"ProductSerialInfo: sql: Scan error on column index 1, name \"p_category\": converting driver.Value type string (\"TV\") to a int: invalid syntax","time":"2024-02-09T10:02:24+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:02:44+05:00"}
+{"level":"error","msg":"ProductSerialInfo: sql: no rows in result set","time":"2024-02-09T10:08:47+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:10:03+05:00"}
+{"level":"error","msg":"ProductSerialInfo: sql: no rows in result set","time":"2024-02-09T10:10:10+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:10:45+05:00"}
+{"level":"error","msg":"ProductSerialInfo: sql: no rows in result set","time":"2024-02-09T10:10:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:11:17+05:00"}
+{"level":"error","msg":"ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T10:11:17+05:00"}
+{"level":"error","msg":"ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T10:12:11+05:00"}
+{"level":"error","msg":"ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T10:13:17+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:28:20+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:29:30+05:00"}
+{"level":"error","msg":"ProductSerialInfo, ProductGeneratorBarcode: pq: there is no parameter $1","time":"2024-02-09T10:29:32+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:29:51+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:33:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:45:21+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T10:47:54+05:00"}
+{"level":"error","msg":"ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T11:05:29+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T11:24:53+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-09T11:26:59+05:00"}
+{"level":"error","msg":"ModelsAdd: pq: duplicate key value violates unique constraint \"models_un\"","time":"2024-02-09T11:27:31+05:00"}
+{"level":"error","msg":"GsCodeFile, InsertGsCode: code repeated","time":"2024-02-09T11:27:49+05:00"}
+{"level":"error","msg":"GsCodeCheckCount, ProductAdd: seria nomer bazada yuklangan","time":"2024-02-09T11:28:26+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T15:40:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T16:06:38+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/sklad/serial/input does not exist","time":"2024-02-09T16:07:12+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T16:09:15+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T16:10:45+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T16:12:53+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T16:13:21+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:09:54+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:10:06+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T17:10:20+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:11:09+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T17:12:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:12:50+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductSerialInfo: Bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-09T17:12:51+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:14:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:15:24+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:41:55+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: GsCode yetarli emas","time":"2024-02-09T17:41:59+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: GsCode yetarli emas","time":"2024-02-09T17:42:07+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:42:51+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: GsCode yetarli emas","time":"2024-02-09T17:42:58+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:44:05+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:46:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:47:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:48:07+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-09T17:48:22+05:00"}
+{"level":"error","msg":"LoadProductFile, GsCodeCheckCount: GsCode yetarli emas","time":"2024-02-09T17:48:35+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-12T17:48:03+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-12T17:49:22+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-12T17:49:22+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-12T17:49:24+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-12T17:49:24+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-12T17:49:42+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-12T17:50:36+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/printers/list does not exist","time":"2024-02-12T17:53:23+05:00"}
+{"level":"error","msg":"CheckRole:  error: \u003cnil\u003e","time":"2024-02-12T17:53:38+05:00"}
+{"level":"error","msg":"PrintersList: sql: Scan error on column index 1, name \"name\": converting driver.Value type string (\"x printer\") to a int: invalid syntax","time":"2024-02-12T17:53:57+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-12T17:54:19+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T10:50:26+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-14T10:50:28+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-14T10:50:28+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-14T10:50:28+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-14T10:50:39+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T10:57:42+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/last does not exist","time":"2024-02-14T10:59:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: syntax error at or near \")\"","time":"2024-02-14T11:05:37+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:07:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductAdd: pq: duplicate key value violates unique constraint \"products_un\"","time":"2024-02-14T11:07:09+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: column \"t\" of relation \"gs_code\" does not exist","time":"2024-02-14T11:07:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:08:37+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductAdd: pq: duplicate key value violates unique constraint \"products_un\"","time":"2024-02-14T11:08:38+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: column \"t\" of relation \"gs_code\" does not exist","time":"2024-02-14T11:08:38+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:11:28+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductAdd: pq: duplicate key value violates unique constraint \"products_un\"","time":"2024-02-14T11:11:28+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: column \"t\" of relation \"gs_code\" does not exist","time":"2024-02-14T11:11:28+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: column \"t\" of relation \"gs_code\" does not exist","time":"2024-02-14T11:12:12+05:00"}
+{"level":"error","msg":"SkladSerialInput, ProductAdd: pq: duplicate key value violates unique constraint \"products_un\"","time":"2024-02-14T11:12:35+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeUpdate: pq: column \"t\" of relation \"gs_code\" does not exist","time":"2024-02-14T11:12:35+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:16:39+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:16:41+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:16:41+05:00"}
+{"level":"error","msg":"ProductGetLast: sql: Scan error on column index 4, name \"u_time\": converting NULL to string is unsupported","time":"2024-02-14T11:16:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:20:58+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:21:12+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:21:12+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:21:44+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:21:44+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:21:52+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:21:52+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:23:52+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:23:52+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:24:21+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:24:21+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:24:58+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:25:00+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:25:00+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:25:12+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: parse \":5555/gscode\": missing protocol scheme","time":"2024-02-14T11:25:18+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:25:18+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:26:18+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:26:19+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:26:19+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:28:22+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:28:22+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:29:16+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:29:17+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:29:17+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:29:45+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:29:45+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:32:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:32:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:32:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:34:21+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:34:21+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:34:44+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:34:44+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:35:03+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:35:03+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:36:15+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:36:17+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:36:38+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:36:39+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:37:18+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:37:36+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeGetGetId: sql: no rows in result set","time":"2024-02-14T11:37:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:38:44+05:00"}
+{"level":"error","msg":"SkladSerialInput, GsCodeGetGetId: GSCode yetarli emas","time":"2024-02-14T11:38:46+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:39:08+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:39:15+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-14T11:39:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:39:47+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Qaytadan urinib ko'ring","time":"2024-02-14T11:39:48+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-14T11:40:14+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-16T16:58:28+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T16:59:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T16:59:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T16:59:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T16:59:45+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T17:00:04+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T17:00:04+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T17:00:04+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-02-16T17:00:04+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:00:18+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:00:36+05:00"}
+{"level":"error","msg":"Login: FindByUserName: musayevs error: sql: no rows in result set","time":"2024-02-16T17:00:45+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:00:49+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:01:32+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:02:06+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:03:13+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:03:23+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-16T17:03:46+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:15:24+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:15:55+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:16:42+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:17:48+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:18:07+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:19:06+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:19:46+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-16T17:19:56+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:03:26+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:14:08+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:15:44+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:17:11+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:17:16+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:18:39+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:18:43+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:19:26+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:19:29+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T12:20:59+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:21:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:24:36+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Printerda muammo. Qaytadan urinib ko'ring","time":"2024-02-17T12:24:43+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:25:02+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: Printerda muammo. Qaytadan urinib ko'ring","time":"2024-02-17T12:25:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:25:46+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:26:13+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:26:35+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:27:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T12:46:41+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-02-17T12:46:43+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T16:21:19+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T16:23:42+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-17T16:24:20+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T16:24:24+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T16:25:33+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-02-17T16:26:16+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:01:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:09:09+05:00"}
+{"level":"error","msg":"Wrong Token:  error: token contains an invalid number of segments","time":"2024-02-29T15:09:12+05:00"}
+{"level":"error","msg":"CheckRole:  error: pq: column r./api/products/delete does not exist","time":"2024-02-29T15:09:37+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:10:40+05:00"}
+{"level":"error","msg":"ProductSerialInfo: bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-29T15:11:41+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:41:34+05:00"}
+{"level":"error","msg":"ProductSerialInfo: bu serial nomer bo'yicha ma'lumot topilmadi","time":"2024-02-29T15:42:07+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:50:21+05:00"}
+{"level":"error","msg":"ProductSerialInfo: pq: syntax error at or near \"as\"","time":"2024-02-29T15:51:35+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-02-29T15:52:09+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:34:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:39:50+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:41:58+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:43:53+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:16+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:16+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:16+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:16+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:18+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:18+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:18+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-03-01T10:44:18+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-03-01T10:44:24+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:45:25+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:45:54+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:46:39+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-03-01T10:47:08+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: printerda muammo. Qaytadan urinib ko'ring","time":"2024-03-01T10:48:08+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-03-01T10:49:21+05:00"}
+{"level":"error","msg":"SkladSerialInput, PrintLabel: printerda muammo. Qaytadan urinib ko'ring","time":"2024-03-01T10:49:31+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-05-06T09:25:26+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-05-06T09:31:43+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-05-06T09:32:45+05:00"}
+{"level":"error","msg":"SkladSerialInput: serial kiritilgan","time":"2024-05-06T09:33:04+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-05-06T09:44:41+05:00"}
+{"level":"error","msg":"SkladSerialInput: serial kiritilgan","time":"2024-05-06T09:44:50+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-05-06T09:44:52+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-05-06T10:41:30+05:00"}
+{"level":"error","msg":"SkladSerialInput, SendGSCODE: GS code yuborishda xatolik","time":"2024-05-06T10:42:27+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-06-13T13:44:36+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-06-13T13:44:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-06-13T13:44:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-06-13T13:44:44+05:00"}
+{"level":"error","msg":"CheckRole:  error: sql: no rows in result set","time":"2024-06-13T13:44:44+05:00"}
+{"level":"info","msg":"User Logged: musayevsd client ip: ::1 remote ip: ::1","time":"2024-06-13T13:44:55+05:00"}
+{"level":"info","msg":"address: :7777","time":"2024-06-18T10:12:46+05:00"}

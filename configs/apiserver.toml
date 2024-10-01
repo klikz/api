@@ -1,0 +1,4 @@
+saddress=":8000"
+logLevel="error"
+database_url="host=localhost database=import user=postgres password=postgres sslmode=disable"
+SecretKey="secretket123Uzb"
